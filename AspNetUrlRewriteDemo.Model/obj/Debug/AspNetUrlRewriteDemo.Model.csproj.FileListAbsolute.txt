@@ -1,0 +1,4 @@
+E:\GitHub\AspNetUrlRewriteDemo\AspNetUrlRewriteDemo.Model\bin\Debug\AspNetUrlRewriteDemo.Model.dll
+E:\GitHub\AspNetUrlRewriteDemo\AspNetUrlRewriteDemo.Model\bin\Debug\AspNetUrlRewriteDemo.Model.pdb
+E:\GitHub\AspNetUrlRewriteDemo\AspNetUrlRewriteDemo.Model\obj\Debug\AspNetUrlRewriteDemo.Model.dll
+E:\GitHub\AspNetUrlRewriteDemo\AspNetUrlRewriteDemo.Model\obj\Debug\AspNetUrlRewriteDemo.Model.pdb

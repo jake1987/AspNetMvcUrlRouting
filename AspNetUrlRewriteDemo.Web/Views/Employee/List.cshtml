@@ -1,0 +1,22 @@
+﻿@{
+    Layout = null;
+}
+@using AspNetUrlRewriteDemo.Model
+@model AspNetUrlRewriteDemo.Model.Employee
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>List</title>
+</head>
+<body>
+    <div>
+        @foreach (var e in ViewBag.List as List<AspNetUrlRewriteDemo.Model.Employee>)
+        {
+            string ht=e.ID+".html";
+            <a href='~/employee/detail/@ht'>@e.Name</a><br />
+        }
+    </div>
+</body>
+</html>
